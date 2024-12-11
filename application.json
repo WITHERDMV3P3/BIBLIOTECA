@@ -1,0 +1,31 @@
+{
+  "appIsExample": false,
+  "appLayout": {
+    "type": "DESKTOP"
+  },
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "color": "#F3F1C7",
+  "evaluationVersion": 2,
+  "pages": [
+    {
+      "id": "CLIENTE",
+      "isDefault": true
+    },
+    {
+      "id": "AUTOR",
+      "isDefault": false
+    },
+    {
+      "id": "LIVRO",
+      "isDefault": false
+    },
+    {
+      "id": "EMPRESTIMOS E DEVOLUÇÃO",
+      "isDefault": false
+    }
+  ],
+  "unpublishedAppLayout": {
+    "type": "DESKTOP"
+  }
+}
